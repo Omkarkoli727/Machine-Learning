@@ -1,0 +1,16 @@
+Student_ID,Gender,Stream,CGPA,Internships,Placed
+1,Male,Science,8.5,2,Yes
+2,Female,Commerce,7.2,1,No
+3,Male,Science,9.1,3,Yes
+4,Female,Arts,6.5,0,No
+5,Male,Commerce,7.8,1,Yes
+6,Female,Science,8.0,2,Yes
+7,Male,Arts,6.9,0,No
+8,Female,Commerce,7.5,1,Yes
+9,Male,Science,8.8,2,Yes
+10,Female,Arts,6.2,0,No
+11,Male,Commerce,7.0,1,No
+12,Female,Science,9.0,3,Yes
+13,Male,Arts,6.8,0,No
+14,Female,Commerce,8.1,2,Yes
+15,Male,Science,8.4,2,Yes
