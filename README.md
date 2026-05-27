@@ -3,11 +3,6 @@
 ## `README.md`
 
 ```markdown
-
-
-This repository contains multiple end-to-end Machine Learning projects implemented in Jupyter Notebooks. Each project includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation. All datasets are stored in the `datasets/` folder.
-
-
 Repository Structure
 
 
