@@ -157,25 +157,4 @@ For the Heart Disease project, run the notebook completely to launch the Gradio 
 
 Created by Omkar as part of a Machine Learning practice repository.
 
----
 
-## License
-
-This project is open-source and available under the MIT License.
-
-````
-
----
-
-## `requirements.txt`
-
-```txt
-numpy>=1.24.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-scikit-learn>=1.3.0
-gradio>=4.0.0
-jupyter>=1.0.0
-notebook>=7.0.0
-````
