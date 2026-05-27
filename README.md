@@ -155,6 +155,6 @@ For the Heart Disease project, run the notebook completely to launch the Gradio 
 
 ## Author
 
-Created by Omkar as part of a Machine Learning practice repository.
+Created by Omkar koli
 
 
